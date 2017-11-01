@@ -1,0 +1,13 @@
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\bin\Debug\ezHomeMaint.exe.config
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\bin\Debug\ezHomeMaint.exe
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\bin\Debug\ezHomeMaint.pdb
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.csprojResolveAssemblyReference.cache
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.mainFrm.resources
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.Properties.Resources.resources
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.csproj.GenerateResource.Cache
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.exe
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.pdb
+c:\users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.createJob.resources
+C:\Users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.showJobFrm.resources
+C:\Users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.createSpare.resources
+C:\Users\kraemrz\documents\visual studio 2015\Projects\Maintenance\ezHomeMaint\obj\Debug\ezHomeMaint.showSpares.resources
